@@ -43,17 +43,17 @@ const Contact = () => {
       </div>
       <div className="contact-section">
         <div className="contact-left">
-          <h1>Let's talk</h1>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia, nihil adipisci. Commodi quae quia assumenda est at repellat animi excepturi!</p>
+          <h1>Let's</h1>
+          <p>Collaborate and Begin the work</p>
           <div className="contact-details">
             <div className="contact-detail">
-              <img src={mail_icon} alt="" /><p>Jahanzaibali@gamil.com</p>
+              <img src={mail_icon} alt="" /><p>arbazali.coder2025@gamil.com</p>
             </div>
             <div className="contact-detail">
-              <img src={call_icon} alt="" /><p>+92 3473650038</p>
+              <img src={call_icon} alt="" /><p>+92 3032826801</p>
             </div>
             <div className="contact-detail">
-              <img src={location_icon} alt="" /><p>Karachin, Malir Khokhrapara No4.</p>
+              <img src={location_icon} alt="" /><p>Karachi, Malir Khokhrapara No.4</p>
             </div>
           </div>
         </div>
